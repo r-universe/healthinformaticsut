@@ -5,3 +5,6 @@
 [submodule "CohortContrast"]
 	path = CohortContrast
 	url = https://github.com/healthinformaticsut/cohortcontrast
+[submodule "syrona"]
+	path = syrona
+	url = https://github.com/healthinformaticsut/syrona
